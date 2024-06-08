@@ -1,5 +1,5 @@
 # Django Roadmap:
-
+# hi my name is mohamed iam intrested in learning django and i hope i will become a web dev by the end of this year . i am thankfull for you giving me this road map . thank you ;) 
 -------------------
 
 ## Part 1 (Development Basics):
@@ -8,7 +8,7 @@
 - Effective Python Book
 
 - VCS (Version Control System):
-  Git and Github (commits, branches, merges, conflicts, stashing, pull requests)
+ Git and Github (commits, branches, merges, conflicts, stashing, pull requests)
   
 - IDE/Text Editor:
  Pycharm Pro or VS Code (shortcuts, formatting, integrations, plugins)
