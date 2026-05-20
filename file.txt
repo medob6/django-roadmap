@@ -1,8 +1,0 @@
-name = mohamed
-lastname = boussetta
-
-year of birth = 2001
-
-best football team = barcalona
-
-best learning platform = alx
