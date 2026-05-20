@@ -1,5 +1,4 @@
 # Django Roadmap:
-# hi my name is mohamed iam intrested in learning django and i hope i will become a web dev by the end of this year . i am thankfull for you giving me this road map . thank you ;) 
 -------------------
 
 ## Part 1 (Development Basics):
